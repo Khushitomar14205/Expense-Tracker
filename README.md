@@ -18,22 +18,22 @@ Expense data is stored in a CSV file so that records persist between program exe
 
 ### Features:
 
-#### Add Expenses
+#### -Add Expenses
 Users can record expenses by entering:
 - Category
 - Amount
 - Description
 
-#### View Expenses
+#### -View Expenses
 Display all saved expenses.
 
-#### Total Spending
+#### -Total Spending
 Calculate total money spent.
 
-#### Category Summary
+#### -Category Summary
 Groups expenses by category and show totals.
 
-#### Budget Check
+#### -Budget Check
 Allow users to compare spending against a budget and receive warnings if exceeded.
 
 ### Files:
